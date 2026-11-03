@@ -1,7 +1,8 @@
 ## Cześć, jestem Kamil
 
-Zajmuję się procesami i portfelem projektów. Nie jestem programistą z wykształcenia
-— piszę narzędzia wtedy, gdy raport, który ktoś co miesiąc składa ręcznie, da się
+Zajmuję się procesami i optymalizacją. Jestem entuzjastą AI i nowych technologii,
+a programowania uczę się po to, żeby lepiej rozumieć technologię, z którą pracuję.
+Narzędzia piszę wtedy, gdy widzę raport składany co miesiąc ręcznie, który da się
 policzyć na żywo z danych źródłowych.
 
 ### Projekty
