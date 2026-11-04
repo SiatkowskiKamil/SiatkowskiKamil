@@ -24,6 +24,12 @@ wnioski dla marketingu. Projekt końcowy kursu.
 Flasku: JWT z unieważnianiem tokenów, SQLAlchemy z migracjami, kolejka zadań, Docker.
 Mój pierwszy projekt backendowy, z kursu.
 
+### Warsztat
+
+**[ai-toolkit](https://github.com/SiatkowskiKamil/ai-toolkit)** — prompty i skille do
+pracy z Claude, których faktycznie używam, każdy z notatką, kiedy i po co. Nie projekt,
+tylko miejsce, do którego wracam.
+
 ### Czego się trzymam
 
 Raport ma mówić, czego nie wie. Każda liczba, która czegoś nie obejmuje, dostaje obok
