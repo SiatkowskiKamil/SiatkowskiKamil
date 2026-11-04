@@ -27,8 +27,8 @@ Mój pierwszy projekt backendowy, z kursu.
 ### Warsztat
 
 **[ai-toolkit](https://github.com/SiatkowskiKamil/ai-toolkit)** — prompty i skille do
-pracy z Claude, których faktycznie używam, każdy z notatką, kiedy i po co. Nie projekt,
-tylko miejsce, do którego wracam.
+pracy z Claude, których faktycznie używam, każdy z notatką, kiedy i do czego był
+wykorzystywany. Nie projekt, tylko miejsce, do którego wracam.
 
 ### Czego się trzymam
 
